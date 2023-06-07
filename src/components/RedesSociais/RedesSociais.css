@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: var(--cor-bg);
+    background-color: var(--cor-segundaria);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 1.2em;
+    position: relative;
+    margin: 15px;
+    transition: 0.1s ease-in;
+}
+a:hover{
+    transform: scale();
+}
+.link{
+    max-width: 800px;
+    margin: auto;
+}

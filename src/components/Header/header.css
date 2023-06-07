@@ -1,0 +1,14 @@
+.Perfil_conteudo{
+    margin: 35px 0;
+    text-align: center;
+    color: var(--cor-terceira);
+}
+.Perfil_imagem{
+    display: block;
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-image: url('../../assets/perfil.jpg');
+    background-size: cover;
+    border-radius: 50%;
+}

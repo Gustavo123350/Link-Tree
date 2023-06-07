@@ -1,0 +1,15 @@
+:root{
+  --cor-bg: #222831;
+  --cor-segundaria: #acacac;
+  --cor-terceira: #fff;
+}
+
+body {
+  margin: 0%;
+  background-color: var(--cor-bg);
+  font-family: swap;
+}
+
+
+
+
